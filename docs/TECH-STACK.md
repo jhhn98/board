@@ -7,14 +7,27 @@
 * React Hook
   * 상태관리: useState, useReducer, useContext
   * 폼 제어: useRef
-  * 데이터 통신: Fetch API
   * 사이드 이펙트: useEffect
   * 기타:
+* 데이터 통신: Fetch API
 * 라우팅: CSR, Lazy Loading, Code splitting
-* 네이밍 규칙
-  * component
-  * function
-  * style class
+* 버전관리:
+* CI/CD: 
+* 테스트: 
+* 코딩 컨벤션
+  * 네이밍 규칙
+    * Component
+      * 
+    * Function
+      * 
+    * Variable
+      * 
+    * CSS class
+      * 
+    * Folder
+      * 
+    * File
+      * Image
 # 백엔드 아키텍처
 * 서버(API): Node.js + Express
 * 데이터 저장: MySQL
