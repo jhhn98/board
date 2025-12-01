@@ -1,8 +1,15 @@
+import { Fragment } from 'react'
 import List from './components/board/List'
-import './App.scss'
+import View from './components/board/View'
+import Write from './components/board/Write'
+import './styles/index.scss'
 
 export default function App() {
     return (
-        <List/>
+        <Fragment>
+            <List/>
+            <View/>
+            <Write/>
+        </Fragment>
     )
 }
