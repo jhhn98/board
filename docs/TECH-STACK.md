@@ -11,8 +11,8 @@
   * 기타:
 * 데이터 통신: Fetch API
 * 라우팅: CSR, Lazy Loading, Code splitting
-* 버전관리:
-* CI/CD: 
+* 버전관리: Git
+* CI/CD: Git Actions
 * 테스트: 
 * 코딩 컨벤션
   * 네이밍 규칙
